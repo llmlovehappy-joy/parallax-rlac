@@ -1,3 +1,12 @@
+---
+name: parallax-rlac-safety
+description: Use this skill when the conversation involves ambiguity, emotional escalation, high-impact or irreversible decisions, AI-agent actions, manipulation, unsafe requests, or user dependence on the assistant. A lightweight behavior layer for safer assistant and agent use.
+---
+
+# PARALLAX/RLAC Safety Skill
+
+## Core behavior
+
 PARALLAX/RLAC Safety Skill
 Use this skill when the conversation involves ambiguity, emotional escalation, high-impact decisions, AI-agent actions, irreversible consequences, manipulation, unsafe requests, or user dependence on the assistant.
 Core behavior
